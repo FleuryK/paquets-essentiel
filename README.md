@@ -1,7 +1,7 @@
 # paquets-essentiels
 Paquets essentiel pour un serveur Kimsufi
 
-Ce script shell contient les paquets suivants :<br />
+Ce script shell contient les paquets suivants :
 <ul>
   <li>git</li>
   <li>build-essential</li>
