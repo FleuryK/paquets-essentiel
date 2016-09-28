@@ -22,4 +22,4 @@ Ce script shell contient les paquets suivants :
 </ul>
 
 Comment l'exécuter ?<br />
-Lancer via la console cette commande <code>sh ./paquets-essential.sh</code> et laisser vous guider.
+Lancer via la console cette commande <code>sh ./paquets-essentiel.sh</code> et laisser vous guider.
