@@ -1,10 +1,10 @@
 #!/bin/sh
 #
-# -----------------------------------------------------------------
-# Installation des paquets essentiels pour un serveur dedie Kimsufi
+# -------------------------------------------------------------------------
+# Installation des paquets essentiels pour un serveur dedie Kimsufi/VPS OVH
 # Realise par FleuryK
 # E-Mail : kevinfleury.todae@gmail.com
-# -----------------------------------------------------------------
+# -------------------------------------------------------------------------
 
 echo "---------------------------------------------------------------------------------------"
 echo "Installation des paquets essentiels : git ..."
