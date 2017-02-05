@@ -1,5 +1,5 @@
 # paquets-essentiels
-Paquets essentiel pour un serveur Kimsufi
+Paquets essentiel pour un serveur Kimsufi/OVH
 
 Ce script shell contient les paquets suivants :
 <ul>
